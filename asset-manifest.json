@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-pofol/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/react-pofol/static/js/main.8e3d2651.chunk.js",
+    "main.js.map": "/react-pofol/static/js/main.8e3d2651.chunk.js.map",
+    "runtime-main.js": "/react-pofol/static/js/runtime-main.bcba6728.js",
+    "runtime-main.js.map": "/react-pofol/static/js/runtime-main.bcba6728.js.map",
+    "static/js/2.93ab39d6.chunk.js": "/react-pofol/static/js/2.93ab39d6.chunk.js",
+    "static/js/2.93ab39d6.chunk.js.map": "/react-pofol/static/js/2.93ab39d6.chunk.js.map",
+    "static/js/3.fda5345a.chunk.js": "/react-pofol/static/js/3.fda5345a.chunk.js",
+    "static/js/3.fda5345a.chunk.js.map": "/react-pofol/static/js/3.fda5345a.chunk.js.map",
+    "index.html": "/react-pofol/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/react-pofol/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.93ab39d6.chunk.js.LICENSE.txt": "/react-pofol/static/js/2.93ab39d6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-pofol/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcba6728.js",
+    "static/js/2.93ab39d6.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.8e3d2651.chunk.js"
+  ]
+}
